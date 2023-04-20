@@ -1,0 +1,15 @@
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\bin\Debug\net6.0\贪吃蛇.exe
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\bin\Debug\net6.0\贪吃蛇.deps.json
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\bin\Debug\net6.0\贪吃蛇.runtimeconfig.json
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\bin\Debug\net6.0\贪吃蛇.dll
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\bin\Debug\net6.0\贪吃蛇.pdb
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\obj\Debug\net6.0\贪吃蛇.csproj.AssemblyReference.cache
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\obj\Debug\net6.0\贪吃蛇.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\obj\Debug\net6.0\贪吃蛇.AssemblyInfoInputs.cache
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\obj\Debug\net6.0\贪吃蛇.AssemblyInfo.cs
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\obj\Debug\net6.0\贪吃蛇.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\obj\Debug\net6.0\贪吃蛇.dll
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\obj\Debug\net6.0\refint\贪吃蛇.dll
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\obj\Debug\net6.0\贪吃蛇.pdb
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\obj\Debug\net6.0\贪吃蛇.genruntimeconfig.cache
+E:\Microsoft Visual Studio\2022\test\C#核心\贪吃蛇\obj\Debug\net6.0\ref\贪吃蛇.dll
